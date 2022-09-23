@@ -1,9 +1,9 @@
 # taskmaster-pro
 Task management application
 
-### Github: 
+### Github: https://github.com/micha2791/Taskmaster-Pro.git 
 
-### Deployed app :
+### URL: https://micha2791.github.io/Taskmaster-Pro/
 
 
 ## Description
